@@ -1,13 +1,12 @@
 ## Portfolio
 
-##About Me:
-##Qualification summary
-<p style="font-size:11px">Exceptionally well organized and resourceful professional with around two years of experience and a solid academic background in Computer Science. Experienced professional with a demonstrated history of working in IT industry and looking forward to starting the career again after break as stay at home parent.</p>
+## Qualification summary:
+<p>Exceptionally well organized and resourceful professional with around two years of experience and a solid academic background in Computer Science. Experienced professional with a demonstrated history of working in IT industry and looking forward to starting the career again after break as stay at home parent.</p>
 
-##Education
+## Education:
 - Master of Computer Applications (MCA) form SV University, Tirupati, India
 - Bachelor of Science (B.Sc.) from SV University, Tirupati, India
-##Certifications & Achievements
+## Certifications & Achievements:
 - Backend Developer Program with certification from “ReDI School of Digital Integration, Munich” (Mar’21 - Jun’21)
 - Worked as “Chairperson of the parents committee” for the Primary and kindergarten school of my children in Hongkong (2018-2020)
 
@@ -23,6 +22,7 @@
 ---
 ## Personal Details:
 - Email: akki.sulochana@gmail.com
+- Linkedin: https://www.linkedin.com/in/sulochana-moola/
 - Date of birth: 05.04.1985
 - Nationality: Indian
 - Languages: English, Telugu

@@ -1,25 +1,13 @@
 ## Portfolio
 
-## Qualification summary:
-<p>Exceptionally well organized and resourceful professional with around two years of experience and a solid academic background in Computer Science. Experienced professional with a demonstrated history of working in IT industry and looking forward to starting the career again after break as stay at home parent.</p>
-
-
-## Education:
-- Master of Computer Applications (MCA) form SV University, Tirupati, India
-- Bachelor of Science (B.Sc.) from SV University, Tirupati, India
-
-
-## Certifications & Achievements:
-- Backend Developer Program with certification from “ReDI School of Digital Integration, Munich” (Mar’21 - Jun’21)
-- Worked as “Chairperson of the parents committee” for the Primary and kindergarten school of my children in Hongkong (2018-2020)
-
-
 ---
 
 ### Projects:
 
 - [Project 1 News Reader](https://github.com/Sulochanaakki/Final-Project_News-Reader/)
 - [Project 2 Book Finder](https://bookfinderapp1.herokuapp.com/)
+- [Project 3 UK Road Accidents EDA](https://github.com/Sulochanaakki/UK_Road_Accidents_DataAnalysis.git)
+- [Project-4 CoinMarketCapAPI](https://github.com/Sulochanaakki/CoinMarketCapAPI.git)
 
 
 ---
